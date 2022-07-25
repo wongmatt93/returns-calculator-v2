@@ -10,7 +10,7 @@ import {
   totalDividendsForTicker,
   totalReturnForTicker,
   grandTotal,
-} from "../src/arithmeticFunctions";
+} from "../src/calculatorFunctions";
 import Option from "../src/models/Option";
 import SellToClose from "../src/SellToClose";
 import SellToOpen from "../src/SellToOpen";
